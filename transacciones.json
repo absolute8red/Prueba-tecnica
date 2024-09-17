@@ -1,0 +1,15 @@
+{
+  "transacciones": [
+    {
+      "id": "1",
+      "status": "Cargo Autorizado",
+      "monto": 100.0
+    },
+    {
+      "id": "2",
+      "status": "Cargo Rechazado",
+      "monto": 200.0
+    }
+  ]
+}
+
